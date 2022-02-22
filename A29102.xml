@@ -1,0 +1,345 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The imperfect promulgation of the Gospel consider'd a sermon preach'd in the Church of St. Mary le Bow, January 7, 1699/1700 : being an appendix to the lectures of the last year appointed by the Honourable Robert Boyle, Esq. / by Samuel Bradford.</title>
+            <author>Bradford, Samuel, 1652-1731.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29102</idno>
+            <idno type="STC">Wing B4115</idno>
+            <idno type="STC">ESTC R25291</idno>
+            <idno type="EEBO-CITATION">08838521</idno>
+            <idno type="OCLC">ocm 08838521</idno>
+            <idno type="VID">41945</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29102)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41945)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1277:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The imperfect promulgation of the Gospel consider'd a sermon preach'd in the Church of St. Mary le Bow, January 7, 1699/1700 : being an appendix to the lectures of the last year appointed by the Honourable Robert Boyle, Esq. / by Samuel Bradford.</title>
+                  <author>Bradford, Samuel, 1652-1731.</author>
+               </titleStmt>
+               <extent>28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Parkhurst,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. 28.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  John III, 16-17 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41945:1"/>
+            <pb facs="tcp:41945:1"/>
+            <p>
+               <hi>The Imperfect Promulgation of the Goſpel, conſider'd.</hi> A SERMON Preach'd in the Church of St. <hi>Mary le Bow, January</hi> 7. 1699/1700.</p>
+            <p>Being an <hi>Appendix</hi> to the Lectures of the laſt Year, appointed by the Honourable <hi>ROBERT BOYLE,</hi> Eſq;</p>
+            <p>By <hi>SAM<g ref="char:V">Ʋ</g>EL BRADFORD,</hi> Rector of the ſaid Church, and Chaplain in Ordinary to His Majeſty.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Tho. Parkhurſt,</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> in <hi>Cheapſide</hi> near <hi>Mercers-Chapel.</hi> 1700.</p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:41945:2"/>
+            <pb facs="tcp:41945:2"/>
+            <p>Mr. <hi>BRADFORD</hi>'s SERMON, Preach'd at St. Mary le Bow, <hi>January</hi> 7. 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:41945:3"/>
+            <pb facs="tcp:41945:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:41945:4"/>
+            <pb n="1" facs="tcp:41945:4"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>JOHN 3.16, 17.</hi>
+                  </bibl>
+                  <p>God ſo loved the World, that he gave his only begotten Son, that whoſo<g ref="char:EOLhyphen"/>ever believeth in him, ſhould not pe<g ref="char:EOLhyphen"/>riſh; but have everlaſting Life. For God ſent not his Son into the World to condemn the World; but that the World through him might be ſaved.</p>
+               </q>
+            </epigraph>
+            <p>THeſe are the Words of our Bleſſed Saviour, who, as he beſt underſtood the Extent of that Love, which moved the Almigh<g ref="char:EOLhyphen"/>ty Father to ſend him into the World, ſo he hath here expreſs'd it in the fulleſt and moſt comprehenſive Terms. The Love of God, not to any particular Nation, but to <hi>the World</hi> in general, was the Motive upon which he gave his Son. The Deſign of our Lord's coming was to ſave not any particular Race of Men, but the whole Race of Mankind, <hi>the World</hi> in general, without Excep<g ref="char:EOLhyphen"/>tion. There is indeed a Condition required of thoſe who would partake of this Salvation, <hi>viz.</hi> that all, to whom the Goſpel of Chriſt is publiſh'd, ſhould believe in him; no other Limitation is ſet, but
+<pb n="2" facs="tcp:41945:5"/>this very reaſonable one, <hi>That whoſoever believeth in him, ſhould not periſh; but have everlaſting Life.</hi> This is indeed a Truth ſo plainly aſſerted in di<g ref="char:EOLhyphen"/>verſe other Texts; 'tis moreover ſo agreeable to the Deſign and the Tenor of the Goſpel throughout; 'tis finally ſo ſuitable to the Apprehenſions which we naturally have of the infinite Good<g ref="char:EOLhyphen"/>neſs of God, that I ſhall not inſiſt upon the Proof of it; the Purpoſe of this Diſcourſe being rather to obviate an Objection, which will eaſily ariſe in the Minds even of ſerious Men, ſuch as are not diſpos'd to cavil, but are us'd to contem<g ref="char:EOLhyphen"/>plate both the Works and the Word of God, with Sobriety and Reverence, for whoſe Satisfa<g ref="char:EOLhyphen"/>ction I thought it worth the while to take this Matter into particular Conſideration.</p>
+            <p>The Objection is this; If the love of God expreſ<g ref="char:EOLhyphen"/>ſed in giving his only begotten Son, be ſo Great, and ſo Univerſal, as it is here repreſented; whence comes it to paſs, that ſo ſmall a part of Mankind ſeem to have receiv'd Benefit from the Chriſtian Revelation? The Caſe of all Men ſeems to have been equally deplorable, and com<g ref="char:EOLhyphen"/>paſſionable: If then the Love of God, teſtified by our Redeemer, were extended to all Men, if the coming of the Son of God into the World, were deſigned and fitted for the Benefit of all; is it not very ſtrange, that four thouſand Years ſhould be run out before he came; and that ſince his appearing ſo ſmall a Part of the World in compariſon ſhould be bleſt with the Know<g ref="char:EOLhyphen"/>ledge of what he hath done for them, or of what he offereth to them?</p>
+            <pb n="3" facs="tcp:41945:5"/>
+            <p> Now for the eaſing our Minds under this Difficulty, I ſhall proceed gradually, laying down ſeveral Propoſitions, which will mutually ſup<g ref="char:EOLhyphen"/>port each other, and which being impartially conſider'd and lay'd together, may ſuffice to ſilence this Objection, if not fully ſatisfie thoſe that make it. And,</p>
+            <p>
+               <hi>Firſt,</hi> If we were able to give no tolerable Ac<g ref="char:EOLhyphen"/>count of this Matter, yet we ought not to be ſurprized or ſtumbled at it, becauſe of the in<g ref="char:EOLhyphen"/>finite diſtance between God and us.</p>
+            <p>They are very reaſonable Queſtions which <hi>Job</hi>'s Friend put to him, when he in the bitter<g ref="char:EOLhyphen"/>neſs of his Soul complain'd of his grievous Af<g ref="char:EOLhyphen"/>flictions, and was at a loſs with Reſpect to the Juſtice of God's Dealings with him.
+<note place="margin">Job. 11 7.8, 9.</note> 
+               <hi>Canſt thou by ſearching find out God? Canſt thou find out the Almighty unto Perfection? It is as high as Heaven; What canſt thou do? deeper than Hell; what canſt thou know? The Meaſure thereof is longer than the Earth, and broader than the Sea. Great is our Lord,</hi> ſaith the Pſalmiſt,
+<note place="margin">Pſalm 147.5.</note> 
+               <hi>and</hi> not only <hi>of great Power;</hi> but <hi>his Underſtanding</hi> alſo <hi>is infinite.</hi> And ſhall we finite Creatures think then to comprehend his Ways? Shall we rec<g ref="char:EOLhyphen"/>kon our ſelves competent Judges of his Acti<g ref="char:EOLhyphen"/>ons? St. <hi>Paul</hi> thought otherwiſe, when contem<g ref="char:EOLhyphen"/>plating a Difficulty of Providence, of the ſame kind with that before us, he cries out,
+<note place="margin">Rom. 11.33, 34.</note> 
+               <hi>O the Depth of the Riches, both of the Wiſdom and Knowledge of God! How unſearchable are his Judgments, and his Ways paſt finding out! For who
+<pb n="4" facs="tcp:41945:6"/>hath known the Mind of the Lord; or who hath been his Counſellor?</hi> It muſt be own'd, that we are not able to account for the Methods of Divine Providence in many other Inſtances; and whoſoever is not abandon'd of all Mode<g ref="char:EOLhyphen"/>ſty, muſt readily acknowledge, that it is rea<g ref="char:EOLhyphen"/>ſonable that it ſhould be ſo. For we have not the entire Scheme of Providence in our Heads at once; we cannot ſee from the beginning to the end of God's Ways; we know not what are the Deſigns, and what will be the Iſſues of his Counſels; and therefore ought to ſuſ<g ref="char:EOLhyphen"/>pend our Judgments, till the Concluſion and winding up of Things. Which will appear to be more eſpecially fit in this Caſe, if we conſider,</p>
+            <p>
+               <hi>Secondly,</hi> That we our ſelves may diſcern ſeveral Particulars, in which we are manifeſtly ignorant, which yet ought to be known by us, if we would pretend fully to account for the Difficulty before us. I might give many Inſtan<g ref="char:EOLhyphen"/>ces; but will content my ſelf with two plain Ones.</p>
+            <p>He that would give a full Account of this Matter, muſt be acquainted with two Parti<g ref="char:EOLhyphen"/>culars, which no mortal Man can certainly know, without an eſpecial Revelation from God; namely, Whether thoſe to whom the Goſpel is not publiſhed during this Life, ſhall ever hear of it in any future State: And again, What Meaſures God will at the laſt Day take with thoſe, to whom the Goſpel was not publiſh'd.</p>
+            <pb n="5" facs="tcp:41945:6"/>
+            <p> No Man certainly knows, whether thoſe who never heard of the Goſpel in this Life, may not in ſome future State have it publiſh'd to them.</p>
+            <p>It has been ſuppoſed by ſome, that thoſe Pa<g ref="char:EOLhyphen"/>gans, who ſhall have approv'd themſelves Honeſt and Sincere in this their State of Tryal, may, when their Souls ſhall be ſeparated from their Bodies, have the Goſpel reveal'd to them in their ſeparate State, in order to their becoming capable of the Rewards of Chriſtians, at the laſt Day.</p>
+            <p>A late Learned and Ingenious Writer has eſ<g ref="char:EOLhyphen"/>ſayed to make it probable,
+<note place="margin">Mr. <hi>Sta<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e,</hi> of Salvati<g ref="char:EOLhyphen"/>on by <hi>Chriſt</hi> alone.</note> from a Prophetical Paragraph in the Apocalypſe, that thoſe, who ſhall have liv'd and dy'd without hearing of the Goſpel in this preſent State, ſhall, after our Saviour's return, before the final Period of this World, be rais'd again, and have the Goſpel preach'd to them, and thereby be put into a new State of Tryal, in order to their Salvation or Damnation, as they ſhall then acquit themſelves.</p>
+            <p>Now though I will neither affirm nor deny either of theſe Opinions to be true, nor ſo much as ſay, that they are probable; yet this I will venture to ſay, That I believe it very difficult for any Man to prove that they can<g ref="char:EOLhyphen"/>not be True; and yet if either of them ſhould prove True, the Difficulty before us would be perfectly ſolv'd. And thus much we may ſafe<g ref="char:EOLhyphen"/>ly infer from theſe Conjectures, that if contem<g ref="char:EOLhyphen"/>plative Men can think of ſome ſuch poſſible Ways for the ſolving this Difficulty, there may be many more Ways of doing it known to the
+<pb n="6" facs="tcp:41945:7"/>Divine Underſtanding, and which will be clear and eaſie to our Underſtandings alſo, when it ſhall pleaſe God to reveal any of them to us. And I confeſs, I would ſuppoſe any thing that is plauſible, nay, any thing that is poſſible, much rather than entertain one hard thought of the Maker and the Redeemer of Mankind.</p>
+            <p>But yet farther, no Man certainly knows what Meaſures God will take at the laſt day with thoſe, who ſhall have liv'd and dyed unacquainted with the Goſpel. We are certainly inform'd, how God will deal with thoſe to whom the Goſpel is pub<g ref="char:EOLhyphen"/>liſh'd; <hi>He that believeth, ſhall be ſaved: And he that believes not ſhall be damned.</hi>
+               <note place="margin">Mar. 16.16.</note> But this <hi>belie<g ref="char:EOLhyphen"/>ving,</hi> or <hi>not believing</hi> plainly ſuppoſes the Goſ<g ref="char:EOLhyphen"/>pel preach'd to them, it being impoſſible, as St. <hi>Paul</hi> ſuggeſts, that <hi>they ſhould believe in him, of whom they have not heard;</hi>
+               <note place="margin">Rom. 10.14</note> and as impoſſible that <hi>they ſhould hear, without a Preacher.</hi> And how God will deal with thoſe who were under this diſadvan<g ref="char:EOLhyphen"/>tage, the Goſpel hath not ſo expreſly told us, it's Declarations being to them, to whom it is pub<g ref="char:EOLhyphen"/>liſh'd. But becauſe this will fall under conſidera<g ref="char:EOLhyphen"/>tion in another Place, I will add no more here, but proceed to my next Propoſition, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> We may our ſelves diſcern very much of the Reaſonableneſs and fitneſs of that Method, which Providence hath taken, both as to the time of our Saviour's coming into the World, and the way and manner in which he order'd his Goſ<g ref="char:EOLhyphen"/>pel to be publiſh'd.</p>
+            <p>Almighty God, having made Men reaſonable Creatures, hath all along dealt with them as ſuch,
+<pb n="7" facs="tcp:41945:7"/>in a way very ſuitable to their Nature, and their preſent Condition in this Life. His Providence wiſely and gently orders and over-rules the Affairs of Mankind, with as little Violence as is poſſible, drawing and leading Men to Re<g ref="char:EOLhyphen"/>pentance and Amendment, rather than driving and compelling them. Accordingly ever ſince the Fall, it hath pleas'd God to uſe ſuch Me<g ref="char:EOLhyphen"/>thods as might reaſonably promote, tho' not neceſſitate their Recovery.</p>
+            <p>Thus in the firſt Ages of the World, be<g ref="char:EOLhyphen"/>ſides the Impreſſions which God had left of himſelf upon the Minds of Men in their very make, and what they might farther have lear<g ref="char:EOLhyphen"/>ned of him by contemplating his Works, there was a plain and certain Tradition both of his firſt forming Man, of the Law he gave to our firſt Parents, of their Fall, and of the kind Intimations of the Divine Compaſſion to<g ref="char:EOLhyphen"/>wards them after their Fall; there was, I ſay, a plain and certain Tradition of all theſe and many more Particulars, eaſily deriv'd down from <hi>Adam</hi> to <hi>Noah; Adam</hi> being able fully to in<g ref="char:EOLhyphen"/>form <hi>Methuſelah,</hi> and <hi>Methuſelah</hi> to inform <hi>Noah</hi> of all that each of them knew. And this one would in reaſon judge had been a ſuf<g ref="char:EOLhyphen"/>ficient means of inſtructing and reclaiming the ſinful Race of <hi>Adam.</hi> And accordingly there were ſome in each Generation, who were re<g ref="char:EOLhyphen"/>cover'd from their fallen Eſtate to that degree, as to become acceptable to God themſelves, and Inſtructors and Examples to others.
+<note place="margin">Gen. 5.24.</note> Thus we read of <hi>Enoch,</hi> that <hi>he walked with God,</hi> that is, <hi>pleaſed him</hi> by a pious and virtuous Courſe
+<pb n="8" facs="tcp:41945:8"/>of Life, and not only by his Converſation re<g ref="char:EOLhyphen"/>proved,
+<note place="margin">Jude, 14.15.</note> but, as St. <hi>Jude</hi> tells us, <hi>propheſyed</hi> alſo againſt <hi>the ungodly Sinners</hi> of that Age, and was indeed ſo much too good for a bad World, that <hi>God took him</hi> to himſelf, as an Encouragement to the few Good, and a War<g ref="char:EOLhyphen"/>ning to the many Bad Men of thoſe times.
+<note place="margin">Gen. 6.9.</note> 
+               <hi>Noah</hi> was ſuch another, of whom it is ſaid, that <hi>he was a juſt Man, and perfect</hi> (or <hi>upright</hi>) <hi>in his Generations,</hi>
+               <note place="margin">2 Pet. 2.5.</note> and that <hi>he walked with God;</hi> as likewiſe that he was <hi>a Preacher of Righte<g ref="char:EOLhyphen"/>ouſneſs</hi> to <hi>the World of the Ungodly.</hi> And be<g ref="char:EOLhyphen"/>ſides theſe external Means of Inſtruction and Reformation, 'tis intimated, that <hi>God's Spirit</hi> alſo was all that while <hi>ſtriving with Men.</hi>
+               <note place="margin">Gen. 6.3.</note>
+            </p>
+            <p>Indeed when none of all theſe Means would prevail, but the Caſe of Mankind was become deplorable and utterly deſperate,
+<note place="margin">Gen. 6.5.</note> when <hi>God ſaw that the Wickedneſs of Man was great in the Earth, and that every Imagination of the Thoughts of his Heart was only evil,</hi> and that <hi>con<g ref="char:EOLhyphen"/>tinually;</hi> then, and not till then, he determi<g ref="char:EOLhyphen"/>ned to interpoſe miraculouſly, by <hi>deſtroying Man from the Face of the Earth,</hi>
+               <note place="margin">Verſe 7.</note> reſerving only <hi>Noah</hi> and his Family, as the Seed of a new and bet<g ref="char:EOLhyphen"/>ter World.</p>
+            <p>When by this Means there was a new Be<g ref="char:EOLhyphen"/>ginning of Mankind, when <hi>Noah,</hi> being him<g ref="char:EOLhyphen"/>ſelf a good Man, and extraordinarily preſerv'd and inſtructed by God, was able to convey to his Off-ſpring a certain Tradition, both of what he had deriv'd from <hi>Adam,</hi> before the Flood, and of what he had learn'd of God ſince, and eſpecially to give them an Account of that
+<pb n="9" facs="tcp:41945:8"/>Stupendous Judgment whereby the old World was deſtroy'd, one would have thought again, that this ſhould have effectually ſecur'd his Race in the Practice of Piety and Virtue for the future.</p>
+            <p>But when his Poſterity alſo ſoon degenera<g ref="char:EOLhyphen"/>ted, ſo that in the Space of ſomewhat more than four hundred Years, even Idolatry began to infect the pureſt Branch deriv'd from him, God then by a ſpecial Providence again in<g ref="char:EOLhyphen"/>terpos'd, chuſing <hi>Abraham,</hi> calling him forth from his Country and his Kindred, inſtru<g ref="char:EOLhyphen"/>cting and guiding him, and as a Reward of his Eminent Faith and Piety, appointing his Poſterity to be his peculiar People, whom he preſerv'd and govern'd in a miracuious Man<g ref="char:EOLhyphen"/>ner from one Generation to another, thereby to awaken other Nations, if they would obſerve the wonderful Works of Providence towards that People; or at leaſt to preſerve one Nation from the General Contagion.</p>
+            <p>Amongſt them God raiſed up a Great Law<g ref="char:EOLhyphen"/>giver, with a Succeſſion of Prophets, diſco<g ref="char:EOLhyphen"/>vering ſtill by degrees more of his Kind Inten<g ref="char:EOLhyphen"/>tions towards them and all the World, and pro<g ref="char:EOLhyphen"/>miſing in due time to raiſe up of the Seed of <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> One who ſhould be the great Deliverer and Sa<g ref="char:EOLhyphen"/>viour of Mankind.</p>
+            <p>
+               <hi>When the fulneſs of the time was come,</hi> as St.
+<note place="margin">Gal. 4.4.</note> 
+               <hi>Paul</hi> emphatically expreſſes it, <hi>God ſent forth</hi> this great Perſon into the World, dignified with the Title of his <hi>only begotten Son.</hi> By which Expreſſion, <hi>The fulneſs of the time,</hi> (as
+<pb n="10" facs="tcp:41945:9"/>hath been often obſerv'd by thoſe who have conſider'd this Point) is not only to be un<g ref="char:EOLhyphen"/>derſtood, that it was the Time to which all the Predictions relating to the <hi>Meſſiah</hi> pointed; but moreover, that it was the fitteſt Seaſon, that ever yet had been, for the Appearance of ſuch a Perſon. It was then, when all o<g ref="char:EOLhyphen"/>ther proper means, having been tryed, had prov'd ineffectual. When the Meſſengers formerly ſent from God, could not prevail, <hi>laſt of all he ſent his Son.</hi>
+               <note place="margin">Matth. 21.37.</note> It was then, when by the diſpoſal of Divine Providence the World was beſt pre<g ref="char:EOLhyphen"/>par'd for the receiving him. It was, when he was become <hi>the Deſire</hi> and <hi>Expectation of all Na<g ref="char:EOLhyphen"/>tions,</hi>
+               <note place="margin">Haggai 2.7. Suct<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nius. Tacitus.</note> as not only the Scriptures, but ſome of the Roman Writers themſelves do aſſure us, which <hi>Expectation</hi> was probably deriv'd partly from the <hi>Jews</hi> who were diſpers'd, and eſpe<g ref="char:EOLhyphen"/>cially from the Divine Oracles, which about three hundred Years before our Lord appear'd, had been by Order of <hi>Ptolemy Philadelphus</hi> tran<g ref="char:EOLhyphen"/>ſlated into the Greek Language, and thereby the Predictions concerning the Meſſiah divulged. Finally, it was then, when firſt by the <hi>Grecian,</hi> and afterward more fully by the <hi>Roman</hi> Empire, a conſiderable part of the World was not only conquer'd, but civiliz'd alſo, and an inter<g ref="char:EOLhyphen"/>courſe between many Nations eſtabliſh'd, and thereby a Way made for the more eaſie Pub<g ref="char:EOLhyphen"/>lication of the Goſpel, from <hi>Judea,</hi> throughout the then known Regions of the Earth. And cer<g ref="char:EOLhyphen"/>tainly This was the fitteſt Seaſon, that ever yet had been for the Appearance of the Saviour of Mankind.</p>
+            <pb n="11" facs="tcp:41945:9"/>
+            <p> If we farther proceed to conſider, in what manner our Lord appointed his Goſpel to be pub<g ref="char:EOLhyphen"/>liſhed, and what Courſe the firſt Preachers of it took to that purpoſe, we ſhall ſtill perceive more of the Reaſonableneſs and Fitneſs of the Method wich Providence hath uſed in this Caſe.</p>
+            <p>When our Lord commiſſion'd his Apoſtles, it was <hi>to make Diſciples out of all Nations,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 28.29, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>k 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> and <hi>to go into all the World and preach the Goſpel to e<g ref="char:EOLhyphen"/>very Creature.</hi> And the Doctrine which they were to preach, was admirably ſuited to this End. It was a Doctrine Rational and Pure, fit to be underſtood and receiv'd by every Na<g ref="char:EOLhyphen"/>tion under Heaven, containing nothing Singular, nothing Narrow, nothing that might ſeparate or diſtinguiſh one Nation or Family from ano<g ref="char:EOLhyphen"/>ther; but equally adapted to the Condition of all Mankind.</p>
+            <p>There was indeed an occaſion here for a mi<g ref="char:EOLhyphen"/>raculous Interpoſition of Providence, and accor<g ref="char:EOLhyphen"/>dingly it pleas'd God to interpoſe. For becauſe thoſe, whom our Lord ſent to preach his Goſpel, were unable to ſpeak the Languages of the ſe<g ref="char:EOLhyphen"/>veral Nations, to which they were ſent, and conſidering farther the ſtrong prejudices that the World lay under againſt this (to them) new Religion, God therefore beſtow'd upon them the Gift of ſpeaking whatſoever Langua<g ref="char:EOLhyphen"/>ges ſhould be neceſſary for propagating the Crhi<g ref="char:EOLhyphen"/>ſtian Doctrine, and alſo a power of working o<g ref="char:EOLhyphen"/>ther Miracles, to excite and move their Auditore, firſt to gain their Attention, and then to convince
+<pb n="12" facs="tcp:41945:10"/>their Judgments; which Powers continued in the Chriſtian Church, as long as they were neceſſary, that is till the GOSPEL was conſiderably ſpread abroad, and able to ſupport and propagate it ſelf by more Natural Means.</p>
+            <p>Such indeed was the Fidelity and Induſtry of the Apoſtles and their immediate Succeſſors, and ſo conformable were their Lives to the excel<g ref="char:EOLhyphen"/>lent Doctrine which they preach'd, that Chri<g ref="char:EOLhyphen"/>ſtianity had incredible Succeſs in thoſe early times, inſomuch that in about three hun<g ref="char:EOLhyphen"/>dred Years, it prevail'd againſt all the falſe Re<g ref="char:EOLhyphen"/>ligions, which had been ſo long receiv'd, and became the eſtabliſh'd Religion of the <hi>Roman</hi> Empire.</p>
+            <p>This was the Courſe which Providence took for the diſperſion of the Knowledge of our Sa<g ref="char:EOLhyphen"/>viour and his Religion throughout the World, which as it was the moſt Natural and moſt reaſonable Means to that End, ſo I can hardly doubt, but that if the Chriſtians of the Ages following had continu'd to recommend their Profeſſion by the Exemplarineſs of their Lives, and had retain'd that Zeal which their Prede<g ref="char:EOLhyphen"/>ceſſors ſhewed for propagating it in the World, it had long before this been the eſtabliſh'd Re<g ref="char:EOLhyphen"/>ligion of Mankind. So that if the Goſpel be not publiſh'd to the World univerſally, it pro<g ref="char:EOLhyphen"/>ceeds not from any defect in the Proviſion which God hath made to that purpoſe; but from the Fault of thoſe to whom God had committed ſo great a Truſt. Had Chriſtian Princes been as zealous to promote the Reli<g ref="char:EOLhyphen"/>gion
+<pb n="13" facs="tcp:41945:10"/>of our Lord, as to extend their Empire; (I mean not by Violence, but in Methods ſuit<g ref="char:EOLhyphen"/>able to the Nature of this Religion;) had Chri<g ref="char:EOLhyphen"/>ſtian Subjects been as eager to advance the Knowledge of our Maker and Redeemer in Fo<g ref="char:EOLhyphen"/>reign Parts, as they have been to ſettle Trade and Commerce there; had all of us, who call our ſelves Chriſtians, <hi>ſhewed forth</hi> in Chriſtian Tempers and Practices, <hi>the Virtues of Him that called us,</hi> and the Excellency of the Religion he hath taught us; there would probably have been no Occaſion for enquiring, as we now do, why the Goſpel of our Lord is confin'd within ſo narrow Bounds.</p>
+            <p>
+               <hi>Fourthly,</hi> As I have juſt now mention'd the open and evident Cauſe's, of the Goſpel being not farther propagated, ſo there may be another more ſecret and hidden Reaſon, of God's per<g ref="char:EOLhyphen"/>mitting ſome Parts of the Earth to remain ig<g ref="char:EOLhyphen"/>norant of the Chriſtian Revelation. 'Tis what we cannot be ſure of, in all the Inſtances of this kind: But 'tis what ſeems highly pro<g ref="char:EOLhyphen"/>bable as to ſome of them, and what ſome Paſ<g ref="char:EOLhyphen"/>ſages in Scripture ſeem to hint, <hi>viz.</hi> That God hath in Juſtice permitted this, either becauſe, when the Goſpel was firſt preach'd to ſome Na<g ref="char:EOLhyphen"/>tions, they utterly rejected it; or becauſe he knew, what God only can know, that ſome Nations were ſo wholly indiſpos'd to receive it, that the Preaching of it to them would have had no other effect, but to have aggravated their Condemnation.</p>
+            <pb n="14" facs="tcp:41945:11"/>
+            <p> We read that St. <hi>Paul</hi> and <hi>Silas,</hi> with <hi>Timothy, were forbidden of the Holy Ghoſt to preach the Word in</hi> Aſia;
+<note place="margin">Acts 16.6, 7, 9, 10.</note> and again, <hi>When they eſſayed to go into</hi> Bi<g ref="char:EOLhyphen"/>thynia, <hi>the Spirit ſuffered them not;</hi> and preſently after, that <hi>a Man of</hi> Macedonia <hi>appear'd to</hi> Paul <hi>in a Viſion, and prayed him, ſaying, Come over into</hi> Macedonia, <hi>and help us;</hi> upon which they imme<g ref="char:EOLhyphen"/>diately bent their Courſe that Way, <hi>aſſuredly ga<g ref="char:EOLhyphen"/>thering, that the Lord had call'd them to preach the Goſpet unto them.</hi> Now although there might be, and probably were other Reaſons, in theſe particu<g ref="char:EOLhyphen"/>lar Inſtances, why they were diverted from <hi>Aſia,</hi> and ſent into <hi>Macedonia</hi> at that time; yet hence it plainly appears, that the Divine Providence did particularly direct the firſt Preachers of the Go<g ref="char:EOLhyphen"/>ſpel, where to publiſh it; and this might ſome<g ref="char:EOLhyphen"/>times be the Reaſon of ſuch Direction, that in ſome Places they were better diſpos'd to receive it, than in others; which may be confirm'd by another Paſſage, a little after in the ſame Hiſtory. It is ſaid that at <hi>Corinth,</hi> the Lord exciting St. <hi>Paul</hi> by another Viſion to preach the Goſpel there, aſſign'd this as one Reaſon, <hi>For I have much People in this City,</hi>
+               <note place="margin">Acts 18.10, 11.</note> that is, many who would, and ac<g ref="char:EOLhyphen"/>cordingly did readily embrace the Chriſtian Do<g ref="char:EOLhyphen"/>ctrine, and accordingly the Apoſtle <hi>continued there a Year and ſix Months, teaching the Word of God a<g ref="char:EOLhyphen"/>mong them.</hi> And who knows, but that this may be the hidden Cauſe why God permits ſome Nations to fit in darkneſs, becauſe, when they had an Oportunity of having the Goſpel pro<g ref="char:EOLhyphen"/>mulg'd amongſt them, they obſtinately rejected it; or it may be, becauſe they have ſo univer<g ref="char:EOLhyphen"/>ſally
+<pb n="15" facs="tcp:41945:11"/>and groſly ſinn'd againſt the Light of Na<g ref="char:EOLhyphen"/>ture, deſpis'd the Dictates of Conſcience, and de<g ref="char:EOLhyphen"/>generated into ſuch vile and deviliſh Diſpoſitions, that if the Goſpel were preach'd amongſt them, it would only ſerve to aggravate their Condemna<g ref="char:EOLhyphen"/>tion?</p>
+            <p>This is very agreeable to the Directions, which our Lord gave his Apoſtles,
+<note place="margin">Matth. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.11.14.</note> when he ſent them abroad to preach; <hi>Into whatſoever City or Town ye ſhall enter, enquire, Who in it is worthy.</hi> And again, <hi>Whoſoever ſhall not receive you, nor hear your Words, when ye depart out of that Houſe or City, ſhake off the Duſt of your Feet,</hi> namely,
+<note place="margin">Mark 6.11.</note> 
+               <hi>as a Teſti<g ref="char:EOLhyphen"/>mony againſt them,</hi> that they had the offer of the Goſpel, but were ſo wicked as to reject it. Tis conſonant alſo to our Saviour's Declaration, that <hi>Whoſoever hath, to him ſhall be given,</hi>
+               <note place="margin">Matth. 13.12.</note> 
+               <hi>and he ſhall have abundance: And from him that hath not, ſhall be taken away, even that which he hath;</hi> which is the Reaſon he aſſigns,
+<note place="margin">Verſe 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 11.</note> 
+               <hi>Why he ſpake to the mul<g ref="char:EOLhyphen"/>titude in Parables,</hi> Whilſt he reveal'd to his Di<g ref="char:EOLhyphen"/>ſciples <hi>the Myſteries of the Kingdom of Heaven,</hi> adding <hi>Therefore ſpeak I to them in Parables;</hi>
+               <note place="margin">Verſe 13.</note> 
+               <hi>be<g ref="char:EOLhyphen"/>cauſe they ſeeing, ſee not; and hearing they hear not, neither do they underſtand,</hi> &amp;c.</p>
+            <p>'Tis certain, that this may be aſſign'd as a Reaſon, why the Light of the Goſpel is depar<g ref="char:EOLhyphen"/>ted from, or at leaſt very much obſcured in di<g ref="char:EOLhyphen"/>verſe Places, where it once ſhone very bright, namely, that it was not duly improv'd by thoſe whom it enlightned. We know how our Lord threaten'd the Church of <hi>Epheſus,</hi>
+               <note place="margin">Rev. 2.4, 5.</note> for <hi>leaving her firſt Love. Remember therefore,</hi> ſaith he, <hi>from whence thou art fallen, and repent, and do the firſt
+<pb n="16" facs="tcp:41945:12"/>Works; or elſe I will come unto thee quickly, and will remove thy Candleſtick out of his Place, except thou repent,</hi> which Threatning has been long ſince remarkably fulfill'd, in the prevailing of <hi>Maho<g ref="char:EOLhyphen"/>metaniſm</hi> in thoſe Parts; and if GOD hath not dealt as ſeverely with others, who may have deſerv'd it as much, his <hi>Goodneſs</hi> ſhould not make them preſume; but <hi>lead them to Repen<g ref="char:EOLhyphen"/>tance.</hi>
+            </p>
+            <p>
+               <hi>Fifthly,</hi> I have yet farther this weighty Con<g ref="char:EOLhyphen"/>ſideration to offer in this Caſe, <hi>viz.</hi> That the Efficacy of our Saviour's Undertaking for Men, doth certainly extend much farther than the actual Knowledge of him doth.</p>
+            <p>This muſt be ſuppos'd as to Infants, at leaſt ſuch as are enter'd into the Chriſtian Cove<g ref="char:EOLhyphen"/>nant by Baptiſm, that they are capable of Sal<g ref="char:EOLhyphen"/>vation by Jeſus Chriſt, without actually know<g ref="char:EOLhyphen"/>ing and believing in him. This muſt again be allow'd, as to all the good Patriarchs, and other pious Men amongſt the Jews, who although they did believe and hope in God, for the ful<g ref="char:EOLhyphen"/>filling of the great Promiſe of a <hi>Meſſiah</hi> to come, yet did not ſee that Promiſe fulfill'd, nor could actually know and believe in him, as we do.</p>
+            <p>Such in truth was the Goodneſs of God to Mankind, as to teſtifie his Compaſſion towards them immediately after the Fall, by the Promiſe then made of <hi>the Woman's Seed,</hi> that is, of <hi>the Meſſiah,</hi> which Promiſe as it was renew'd upon all occaſions, ſo as an Effect of his Interpoſition, were confer'd all the Benefits which Mankind
+<pb n="17" facs="tcp:41945:12"/>receiv'd from God, after the ſin of our firſt Parents. It was upon his account that they were reſpited from preſent Death; and that their Poſterity have been bleſt with all thoſe Favours, Temporal and Spiritual, which they have enjoy'd from that time to this; inſomuch that the Efficacy of our Lord's Undertaking is to bear date from the firſt Pro<g ref="char:EOLhyphen"/>miſe of it; nay, from the Purpoſe and Intention of God before his actual Promiſe. But more particularly yet;</p>
+            <p>
+               <hi>Sixthly,</hi> The Holy Scriptures do every where repreſent our Saviour, as having made Ex<g ref="char:EOLhyphen"/>piation for the ſins of all Mankind, without Ex<g ref="char:EOLhyphen"/>ception, as well thoſe who were born before his appearing, as ſince; and thoſe who live in the remoteſt and darkeſt Corners of the Earth, as thoſe to whom the Goſpel is publiſh'd.</p>
+            <p>
+               <hi>He is the Propitiation for our ſins,</hi> ſaith St. <hi>John;</hi>
+               <note place="margin">1 John 2 2.</note> 
+               <hi>and not for ours only; but alſo for the ſins of the whole World. There is,</hi> ſaith St. <hi>Paul,</hi>
+               <note place="margin">1 Tim. 2.5, 6.</note> 
+               <hi>one Mediator between God and Men, who gave himſelf a Ranſom for all, to be teſtified in due time.</hi> And the ſame A<g ref="char:EOLhyphen"/>poſtle in a ſet Diſcourſe, expreſly makes the Be<g ref="char:EOLhyphen"/>nefit of Chriſt's Death, in the deſign of it, to ex<g ref="char:EOLhyphen"/>tend as far as the ſin of <hi>Adam</hi> had done.
+<note place="margin">Rom. 5.13, <hi>&amp;c.</hi>
+               </note> The Author to the <hi>Hebrews</hi> affirms, that our Saviour took our Nature upon him,
+<note place="margin">Heb. 2.9.</note> 
+               <hi>that he by the Grace of God might taſte death for every Man.</hi> And the ſame inſpir'd Writer is very expreſs in declaring, that the Sacrifice of the Death of Chriſt did in its Me<g ref="char:EOLhyphen"/>rit and Virtue reach buckward to the begining of the World, as well as forward to the end of it. <hi>Not,</hi> ſays he, <hi>that he ſhould offer himſelf often,</hi>
+               <note place="margin">Heb. 9.25, 26.</note> 
+               <hi>as
+<pb n="18" facs="tcp:41945:13"/>the High Prieſt entereth into the Holy Place e<g ref="char:EOLhyphen"/>very Year with the Blood of others; for then muſt he often have ſuffered ſince the Foundation of the World: but now once in the end of the World hath he appear'd, to put away ſin, by the Sacrifice of himſelf;</hi> whereby is plainly intimated, that this one Sacrifice had its Effect from <hi>the foundation of the World.</hi> If it be ask'd, wherein the effect of this Appears ſo exten<g ref="char:EOLhyphen"/>ſive, <hi>I</hi> anſwer by my next Propoſition, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Seventhly,</hi> That by means hereof God was ſo far reconcil'd to Men, as to give Place for Repen<g ref="char:EOLhyphen"/>tance, and to accept of it, whereſover it was ſincere.</p>
+            <p>In the firſt Covenant made with <hi>Adam,</hi> there was no Allowance made of Repentance after Tranſ<g ref="char:EOLhyphen"/>greſſion: but upon the Interpoſition of our Re<g ref="char:EOLhyphen"/>deemer, and in Virtue of that Expiation, which he was to make, when he ſhould come into the World, ſinners were allowed and encouraged to repent and turn to God, in hopes of obtaining his Favor. The very reſpiting our firſt Parents from the execution of the Sentence denounced, was an intimation that Repentance would be accepta<g ref="char:EOLhyphen"/>ble to God; the Promiſe made ſoon after the Fall was a Confirmation of the ſame thing. God's com<g ref="char:EOLhyphen"/>manding and encouraging Sacrifices ſtill farther encouraged Repentance. The Queſtion which God put to <hi>Cain, If thou doſt well, ſhalt thou not be ac<g ref="char:EOLhyphen"/>cepted?</hi>
+               <note place="margin">Gen. 4.7.</note> plainly ſignified his pleaſure in this Caſe. <hi>The Goodneſs of God</hi> continually exercis'd towards all Mankind in ſo many Inſtances,
+<note place="margin">Rom. 2.4.</note> naturally ten<g ref="char:EOLhyphen"/>ded <hi>to lead them to Repentance.</hi> All along through<g ref="char:EOLhyphen"/>out the Old Teſtament, both in <hi>Moſes</hi> and <hi>the
+<pb n="19" facs="tcp:41945:13"/>Prophets,</hi> Repentance is inculcated and encoura<g ref="char:EOLhyphen"/>ged. That peremptory Declaration and Oath of God, tho' made to <hi>the Houſe of</hi> Iſrael,
+<note place="margin">Ezek. 33.11.</note> yet is in very general Terms, and ſuch as ſeem to concern all Mankind; <hi>As I live, ſaith the Lord God, I have no pleaſure in the Death of the Wicked; but that the Wicked turn from his way and live;</hi> with much more to the ſame purpoſe, in the following Verſes. In the Prophet <hi>Jonah,</hi> we find that <hi>Nineveh,</hi> a Pagan City, was ſpar'd upon the Humiliation of its In<g ref="char:EOLhyphen"/>habitants. When our bleſſed Saviour came to de<g ref="char:EOLhyphen"/>clare the Will of God more fully, it was in theſe Terms,
+<note place="margin">Luke 24.47.</note> 
+               <hi>That Repentance and Remiſſion of ſins ſhould be preach'd in his Name, amongſt all Nations, begin<g ref="char:EOLhyphen"/>ing at</hi> Jeruſalem. And altho' this Doctrine is prea<g ref="char:EOLhyphen"/>ched only to thoſe, to whom the Oracles of God are publiſh'd; yet we cannot from thence fairly conclude, that if in any other part of the World there be found any true Penitents, their Repen<g ref="char:EOLhyphen"/>tance ſhall not be accepted of God, becauſe they were not expreſly told ſo beforehand. On the con<g ref="char:EOLhyphen"/>trary, as the Conſideration of the Divine Good<g ref="char:EOLhyphen"/>neſs will diſpoſe us to hope the beſt, ſo there are diverſe Hints in the Oracles of God themſelves, which may incline us to take the favourable ſide in this Controverſie. St. <hi>Peter</hi> ſeems to have done ſo, when upon obſerving how God had accepted the Prayers and the Alms of <hi>Cornelius,</hi> he own'd himſelf convinc'd of a Miſtake which he lay un<g ref="char:EOLhyphen"/>der before, crying out, <hi>Of a truth I perceive,</hi>
+               <note place="margin">Acts 10.34, 35.</note> 
+               <hi>that God is no Reſpecter of Perſons; but in every Nation, he that feareth God and worketh Righteouſneſs is ac<g ref="char:EOLhyphen"/>cepted with him.</hi>
+            </p>
+            <pb n="20" facs="tcp:41945:14"/>
+            <p>'Tis true, ſometimes Faith is made the Condi<g ref="char:EOLhyphen"/>tion of Acceptance with God, as well as Repen<g ref="char:EOLhyphen"/>tance, particularly in our Text, it is expreſly made the Condition of Salvation: but then if by Faith be to be underſtood an expreſs believing in Jeſus Chriſt, it muſt be reſtrain'd to them to whom he is preach'd. For, as I obſerv'd before, the Patri<g ref="char:EOLhyphen"/>archs, and other good Men of the Jewiſh Nation, were accepted upon their Faith, believing the Pro<g ref="char:EOLhyphen"/>miſes of God, and obeying his Commands, before the coming of our Lord and when they had very obſcure Notions concerning him. And the Apo<g ref="char:EOLhyphen"/>ſtle to the <hi>Hebrews,</hi> in his excellent Diſcourſe of Faith,
+<note place="margin">Heb. 11.6.</note> even that Faith which is acceptable to God, defines it in general, <hi>a believing that God is, and that he is a Rewarder of them that diligently ſeek him.</hi> Which indeed will include believing in God, as <hi>a Rewarder of them that ſeek him through Jeſus Chriſt,</hi> where the Goſpel is publiſh'd: But it ſeems evidently to imply alſo, that God will ac<g ref="char:EOLhyphen"/>cept ſuch a degree of Faith in him, as is ſuitable to the Revelation he hath made of himſelf, be it more or leſs. What elſe can we think of ſuch a Man as <hi>Job</hi> for Inſtance, concerning whom it is ſaid,
+<note place="margin">Job. 1.1.</note> that <hi>he was perfect and upright, one that feared God and eſchewed Evil?</hi> Who yet was not of that Family, which God had choſen to be his peculiar People, and to bleſs with his more parti<g ref="char:EOLhyphen"/>cular Revelations; but an <hi>Arabian.</hi> What ſhall we again think of <hi>Abimelech,</hi> a <hi>Philiſtian</hi> King, in whom was likewiſe found <hi>the Fear of God,</hi> to that degree, that upon his Admonition, he rea<g ref="char:EOLhyphen"/>dily <hi>eſchewed</hi> that <hi>Evil</hi> which he was before in dan<g ref="char:EOLhyphen"/>ger of,
+<note place="margin">Gen. 20.6, <hi>&amp;c.</hi>
+               </note> though unwittingly, and <hi>in the integrity of
+<pb n="21" facs="tcp:41945:14"/>his Heart?</hi> And altho' I dare not profeſs my ſelf aſſur'd of the State of <hi>Socrates,</hi> or <hi>Epictetus;</hi> yet I cannot but be ſtrongly inclin'd to hope, that the Expiation of our Redeemer may have render'd their Repentance and Obedience in a good degree acceptable to God. And God only knows, how many more penitent and ſincere Souls may be found, in the dark Corners of the Earth. It may be, for ought we know, in this Caſe, as in that of <hi>Elijah,</hi> who imagin'd himſelf left alone,
+<note place="margin">1 Kings 19.14, 18.</note> when God knew of no leſs than <hi>ſeven thouſand in</hi> Iſrael, <hi>who had not bowed the Knee to</hi> Baal. But yet farther,</p>
+            <p>
+               <hi>Eighthly,</hi> Another Effect of the Expiation made by our Redeemer, may have been, for ought any Man can know to the contrary, the ſecret Ope<g ref="char:EOLhyphen"/>ration and Influence of the Divine Spirit, en<g ref="char:EOLhyphen"/>lightning and moving the Minds of Men, in all parts of the World.</p>
+            <p>'Tis acknowledgd, that no Man can either re<g ref="char:EOLhyphen"/>pent, or believe in God, or obey him accepta<g ref="char:EOLhyphen"/>bly, without the Aſſiſtance of the good Spirit; 'tis confeſs'd alſo that this Aſiſtance is expreſly promis'd only through Jeſus Chriſt: but I ſhould be very loth to affirm, that it was never impar<g ref="char:EOLhyphen"/>ted to any, who were not actually inſtructed in the Chriſtian Doctrine. There can be no doubt, with reſpect to the Patriarchs, who were the Friends and Favorites of God, and by their Faith and Piety demonſtrated, that they were enligh<g ref="char:EOLhyphen"/>ten'd and mov'd by his Spirit. The Law of <hi>Moſes</hi> did not expreſly promiſe the Aſſiſtance of the Spirit; and yet there is no Queſtion, but
+<pb n="22" facs="tcp:41945:15"/>that pious and good Men among the Jews did partake of it. And ſhall we confine it to them only? No! I would rather hope that <hi>Job</hi> and <hi>Abimelech</hi> before mention'd, nay, that <hi>Socrates</hi> and <hi>Epictetus</hi> alſo, in their Meaſure, partook of the ſame; the Fruits of that Divine Spirit methinks very evidently appear in many of their Expreſſi<g ref="char:EOLhyphen"/>ons and Actions. Diverſe Pagans, as I obſer<g ref="char:EOLhyphen"/>ved in a former Lecture, have been ſenſible of this Truth, and openly avow'd that the Inſpira<g ref="char:EOLhyphen"/>tion of God was neceſſary to Virtue, and accor<g ref="char:EOLhyphen"/>dingly believ'd that ſuch as were truly Virtu<g ref="char:EOLhyphen"/>ous amongſt themſelves, were ſo by the aſ<g ref="char:EOLhyphen"/>ſiſtance of the Divine Spirit. And it ſeems high<g ref="char:EOLhyphen"/>ly worthy of God, to believe thus; at leaſt not to believe otherwiſe.</p>
+            <p>And indeed if we reflect upon the Notion, which was current amongſt the beſt and moſt ancient Chriſtian Writers, and which the Holy Scriptures ſeem to have led them into, concer<g ref="char:EOLhyphen"/>ning the Diſpenſation of God towards Man<g ref="char:EOLhyphen"/>kind, by our Redeemer, we ſhall the more ea<g ref="char:EOLhyphen"/>ſily be diſpos'd to be of this Judgment. For they look'd upon our Saviour, as not only deſigning, but beginning his Tranſactions for the good of Men, from the time of their firſt Creation; and for the Recovery of Sinners, from the time of their Fall. They believ'd that diverſe of the Appearances, mention'd in the Old Teſtament, were really of the Son of God, in Angelical Form, anticipating thereby and prefiguring his Appearance at laſt in Humane Nature. They be<g ref="char:EOLhyphen"/>lieved that it was He, who conducted the <hi>Iſra<g ref="char:EOLhyphen"/>elites</hi> from <hi>Egypt</hi> into <hi>Canaan;</hi> that it was He,
+<pb n="23" facs="tcp:41945:15"/>who was in the Tabernacle, and in the Temple, in the midſt of the Cloud, towards whom therefore the Jews paid their ſolemn Adorations. And for the like Reaſon they believ'd, that it was He, who inſpir'd all the great and good Men, that were eminent for Piety and Virtue, either among the Jews, or in any other Nations. In a word,
+<note place="margin">John 1.9.</note> they underſtood St <hi>John</hi> to mean as much, where he ſays, <hi>That was the true Light, which enlighteneth every Man that cometh into the VVorld,</hi> not only by imparting the Powers of Underſtanding and Reaſon to them in their firſt Formation; but alſo by farther opening their Underſtandings, and improving their Minds, as they ſhould become capable, by the ſecret Suggeſtions and Motions of his Spirit. So that, although he did not appear in Humane Form, till four thouſand Years were elaps'd; yet he had not neglected Mankind all that ſpace of time; nor doth at preſent neglect thoſe who have not heard of his Incarnation; but <hi>was</hi> and <hi>is in the VVorld,</hi> even in thoſe Parts of it, where <hi>they know him not,</hi> uſing thoſe Methods,
+<note place="margin">Verſe 10.</note> which to his Divine Wiſdom ſeem meet, for the training up well-diſpos'd Minds, which do not reſiſt the Grace which he offers to them. There is but one Propoſition more that I have to add, and it is this, <hi>viz.</hi>
+            </p>
+            <pb n="24" facs="tcp:41945:16"/>
+            <p> 
+               <hi>Ninthly,</hi> That at the great Day of Judg<g ref="char:EOLhyphen"/>ment, all Men ſhall be accountable to our Lord, with due Regard had to their Reſpective Advantages or Diſadvantages in this their State of Tryal.</p>
+            <p>Our Lord hath expreſly declar'd, that <hi>unto whom<g ref="char:EOLhyphen"/>ſoever much is given,</hi>
+               <note place="margin">Luke 12.48. Matth. 25.14. <hi>&amp;c.</hi>
+               </note> 
+               <hi>of him ſhall be much requir'd;</hi> and that Men ſhall be called to an account for the Talents committed to them, by their Lord, whether more or fewer, in ſo much that he that had but <hi>one,</hi> ſhall be accountable for that <hi>one</hi> only. St. <hi>Paul</hi> in a ſet Diſcourſe ſeems to have determin'd this Matter peremptorily, as between <hi>Jew</hi> and <hi>Gentile;</hi> ſo by parity of Reaſon, between <hi>Chriſtian</hi> and <hi>Gentile</hi> alſo.
+<note place="margin">Rom. 2.5, 6, 9, 10, 11, 12, 14.</note> He calls the Day of Judgment, <hi>the Day of the Revelation of the righ<g ref="char:EOLhyphen"/>teous Judgment of God, who will render to every Man according to his Deeds, to the Jew firſt, and alſo to the Gentile;</hi> adding, <hi>For there is no reſpect of Perſons with God: For as many as have ſinned with<g ref="char:EOLhyphen"/>out Law, ſhall alſo periſh without Law, and as many as have ſinned in the Law; ſhall be judged by the Law:</hi> And again, <hi>VVhen the Gentiles, which have not the Law, do by Nature the things contained in the Law, theſe having not the Law, are a Law unto themſelves.</hi>
+            </p>
+            <p>'Tis very true, that the Salvation of the Go<g ref="char:EOLhyphen"/>ſpel is by the Goſpel promis'd only to thoſe who believe and obey it, and conſequently to whom it is preach'd; as Damnation is therein expreſly threatened to thoſe who reject it; and we are not ſo plainly told what kind and what degrees of Rewards and Puniſhments God will diſpenſe to others: but we are in the general aſſu<g ref="char:EOLhyphen"/>red,
+<pb n="25" facs="tcp:41945:16"/>that the Recompences of that Day ſhall be all juſt, and carry a Reſpect to <hi>the Deeds done in the Body,</hi> bearing ſome Proportion to the different Circumſtances and Conditions of Men. And therefore St. <hi>Paul</hi> a little before his Diſcourſe juſt now cited, lets us know, that the Condem<g ref="char:EOLhyphen"/>nation of wicked <hi>Gentiles</hi> would be very juſt, by Reaſon of their having deſpis'd the Di<g ref="char:EOLhyphen"/>ctates of Nature and Reaſon, becauſe <hi>they with<g ref="char:EOLhyphen"/>held the Truth in Unrighteouſneſs;</hi> for,
+<note place="margin">Rom. 1.18, 19.</note> as he ar<g ref="char:EOLhyphen"/>gues, <hi>That which may be known of God, is manifeſt in them; for God hath ſhewed it unto them.</hi> God hath, as he there farther proves, render'd him<g ref="char:EOLhyphen"/>ſelf ſo conſpicuous to all Men, as the Maker and Governour of the World, that thoſe who are ignorant of him muſt be <hi>without</hi> Excuſe.
+<note place="margin">verſe 20.</note> He is ſo near to <hi>every one of us,</hi> as the ſame Apoſtle elſe<g ref="char:EOLhyphen"/>where diſcourſes, ſince <hi>in him we live,</hi>
+               <note place="margin">Acts 17.27, 28.</note> 
+               <hi>and move and have our Being,</hi> that we may even <hi>feel after him,</hi>
+               <note place="margin">Rom. 2.15.</note> 
+               <hi>and find him;</hi> and he hath <hi>written</hi> his <hi>Law</hi> in ſuch viſible Characters in all <hi>our Hearts,</hi> ſhewing us the plain Difference between moral Good and Evil, in the chief Inſtances thereof, cauſing our <hi>Conſciences</hi> to <hi>bear witneſs,</hi> and our <hi>Thoughts</hi> to <hi>accuſe</hi> or <hi>excuſe,</hi> as we demean our ſelves, that he may juſtly call us to an Account for ſuch our De<g ref="char:EOLhyphen"/>meanor.</p>
+            <p>So that the whole Matter at laſt comes to this Iſſue. Some Men have, by hearing the Goſpel preach'd to them, far greater Advantages, than others; but then they are accountable likewiſe for thoſe ſpecial Advantages: whereas ſuch, as not through their own default, but by the meer Providence of God, want thoſe Advantages, ſhall
+<pb n="26" facs="tcp:41945:17"/>be anſwerable for no more, than what they have been entruſted with. God hath done more for thoſe, than for theſe; and 'tis but fit, that he ſhould freely diſpoſe of his own Gifts, <hi>after the Counſel of his own Will:</hi> but if he doth what is abundantly ſufficient for all, and will expect no more, than in proportion to what he gives, there remains no juſt Ground of complaint to any.</p>
+            <p>And thus I have done with what I thought fit to be offer'd on this difficult Argument; and I hope, if what I have propos'd be conſider'd with<g ref="char:EOLhyphen"/>out Prejudice, it may ſuffice to make us humbly acquieſce in the Diſpenſation of God by Jeſus Chriſt, acknowledging that the Deſign of our Lord's coming was <hi>to ſave Sinners</hi> in general; and confeſſing to the glory of the Almighty Father, that his <hi>love</hi> was manifeſted to <hi>the whole Race of Mankind,</hi> by <hi>ſending his only begotten Son into the World</hi> for our Salvation.</p>
+            <p>I ſhall conclude all with two practical Infe<g ref="char:EOLhyphen"/>rences, <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Friſt,</hi> We may infer from hence the great O<g ref="char:EOLhyphen"/>bligation which lies upon us, to whom the Goſpel is publiſh'd, to comply with the Terms of it, par<g ref="char:EOLhyphen"/>ticularly <hi>that</hi> mention'd in the Text, as comprehen<g ref="char:EOLhyphen"/>ſive of all others, <hi>believing in Jeſus Chriſt.</hi> What<g ref="char:EOLhyphen"/>ever gracious Allowances God in his infinite Good<g ref="char:EOLhyphen"/>neſs may make to others, we cannot hope for <hi>Sal<g ref="char:EOLhyphen"/>vation</hi> upon any other Conditions, than a grateful Acknowledgment of this infinite Love of God, a firm and ſtedfaſt Faith in his only begotten Son, to<g ref="char:EOLhyphen"/>gether with an hearty Reſignation of our ſelves to
+<pb n="27" facs="tcp:41945:17"/>his Conduct. As by theſe our Priviledges we are <hi>exalted to Heaven;</hi> ſo upon our abuſe of them, we ſhall be <hi>caſt down</hi> to the loweſt depth of <hi>Hell. This</hi> (as our Saviour declared,
+<note place="margin">Verſe 19.</note> a little after the Text) <hi>is the Condemnation, that light is come into the World; but Men loved darkneſs rather than light, becauſe their deeds were evil.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> If the Love of God toward Mankind be ſo extenſive, it becomes us then, inſtead of caviling at the Divine Providence on account of the Goſpel's not being publiſh'd to all the World, to do our part towards the Propagation of it</p>
+            <p>The Princes and great Men of the Earth may do very much to this purpoſe, as I have alrea<g ref="char:EOLhyphen"/>dy obſerv'd. Others alſo, eſpecially thoſe Bodies and Societies of Men, which have Commerce with the Gentile World, might contrive Methods for propagating their Religion together with their Trade.
+<note place="margin">This the pious Founder of theſe Lectures had a great ſenſe of, when by a Clauſe in his Will, he obliged thoſe who ſhould preach them, <q>to be aſſiſting to all Companys, and en<g ref="char:EOLhyphen"/>couraging them in any Un<g ref="char:EOLhyphen"/>dertaking, for propagating the Chriſtian Religion in foreign Parts.</q>
+               </note> And all of us might contribute to this generous Deſign, by our earneſt Prayers to God for the enlarging of his Son's Kingdom, and that it would pleaſe him to excite the Spirits of thoſe who have Power and Intereſt to ad<g ref="char:EOLhyphen"/>advance this Noble Work. In fine, we may all contribute towards it, by living Chriſtian Lives; and if we have neither Power nor Intereſt to promote the <hi>Profeſſion</hi> of our Religion in Foreign Parts, we may at leaſt promote the <hi>Practiſe</hi> of it at Home, by our
+<pb n="28" facs="tcp:41945:18"/>Examples. Nothing in truth would ſo powerful<g ref="char:EOLhyphen"/>ly recommend our Holy Religion to Mankind, in order both to the Belief and Practice of it, as to have it fairly repreſented by the Tempers and Lives of its Profeſſors. <hi>May Almighty God revive the Spirit of Primitive Chriſtianity, in thoſe who take upon them the Chriſtian Name; and may their light ſhine ſo clearly and brightly, as to enlighten the darkeſt and remoteſt Regions of the Earth, to the Glory of God and our Redeemer.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>Sermon I. P. 5. l. 2. read, <hi>into the World.</hi> p. 23. l. 8. r, <hi>miſled.</hi> Ser. III. p. 9. l. 29. r. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. p. 20. l. 7. r. <hi>Mediator.</hi> p. 23. l. 10. r. <hi>he.</hi> Ser. VII. p. 3. l. 14. r. <hi>ſo it.</hi> p. 15. l. 33. blot out, <hi>his.</hi> p. 26. l. 28. r. <hi>valuable.</hi> Ser. VIII. p. 10. l. 18. r. <hi>their, ibid.</hi> l. 27. r. <hi>Men.</hi> p. 12. l. 22. r. <hi>Evangeliſt.</hi> p. 14. l. 25. r. <hi>be.</hi> p. 20. l. 18. r. <hi>bleſſing then.</hi> Ser. XI. p. 6. l. 15. r. <hi>not believing.</hi> p. 13. l. 16. r. <hi>Cauſe. ibid.</hi> r. <hi>Goſpel's.</hi>
+            </p>
+            <pb facs="tcp:41945:18"/>
+         </div>
+      </back>
+   </text>
+</TEI>
